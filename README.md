@@ -6,4 +6,7 @@ Courtesy of [appbrewery](https://www.appbrewery.co/p/flutter-development-bootcam
 
 ## Highlights
 
++ Expanded Widget for flexible layouts
++ Image.asset shortcut for minimized nesting when creating image widget
+
 ## Screenshots
