@@ -10,5 +10,6 @@ Courtesy of [appbrewery](https://www.appbrewery.co/p/flutter-development-bootcam
 + Image.asset shortcut for minimized nesting when creating image widget.
 + Android studio shortcuts for common tasks.
 + FlatButton and onPressed action
++ Dart functions, variables, data types
 
 ## Screenshots
